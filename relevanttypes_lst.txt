@@ -1,0 +1,117 @@
+ Journal Article
+ Literature Review
+ PERIODICAL
+ Literature Review , Feature
+ Journal Article , Feature
+ Feature , Journal Article
+ Journal Article , Literature Review
+ Feature , Comparative Study
+ Literature Review , Journal Article
+ Case Study , Feature
+ Research article
+ Journal Article , Case Study
+ Review
+ Evaluation Studies
+ Book review-No Opinion
+ nan
+ Feature , Historical Article
+ Case Study
+ Historical Article
+ Feature , Case Study
+ Comparative Study
+ Feature , Journal Article , English Abstract
+ Feature , Journal Article , Comparative Study
+ Feature , Journal Article , Evaluation Studies
+ Feature , Journal Article , Historical Article
+ Journal Article , Comparative Study
+ Feature , Introductory Journal Article
+ Feature , Literature Review
+ Feature , Literature Review , Journal Article
+ Case Study , Journal Article
+ Literature Review , Commentary
+ journal
+ Feature , Journal Article , Introductory Journal Article
+ Journal Article , Evaluation Studies
+ Journal Article , Editorial
+ Journal Article
+ Literature Review
+ Journal Article , Literature Review
+ Clinical Trial
+ Literature Review , Journal Article
+ Research article
+ Journal Article
+ Case Study
+ Evaluation Studies
+ Case Study
+ Historical Article
+ Journal Article , Comparative Study
+ Case Study , Journal Article
+ Working Paper
+ Article , Report , 080: Journal Articles , 143: Reports - Research
+ Article , Report , 080: Journal Articles , 141: Reports - Descriptive
+ Article , Editorial , 080: Journal Articles , 120: Opinion Papers
+ Article , Report , 080: Journal Articles , 141: Reports - Descriptive , 143: Reports - Research
+ Article , Report , 080: Journal Articles , 142: Reports - Evaluative
+ Article , Report , 080: Journal Articles , 140: Reports - General
+ Article , Editorial , Report , 080: Journal Articles , 120: Opinion Papers , 142: Reports - Evaluative
+ Article , Instructional Material/Guideline , Report , 080: Journal Articles , 052: Guides - Classroom - Teacher , 141: Reports - Descriptive
+ Article , Undefined , Report , 080: Journal Articles , 160: Tests/Questionnaires , 143: Reports - Research
+ Article , Report , Undefined , 080: Journal Articles , 141: Reports - Descriptive , 160: Tests/Questionnaires
+ Article , Editorial , Report , 080: Journal Articles , 120: Opinion Papers , 141: Reports - Descriptive
+ Article , Undefined , Report , 080: Journal Articles , 160: Tests/Questionnaires , 141: Reports - Descriptive
+ Article , Report , Undefined , 080: Journal Articles , 143: Reports - Research , 160: Tests/Questionnaires
+ Article , 080: Journal Articles
+ Article , Report , 080: Journal Articles , 070: Information Analyses
+ Article , Report , 080: Journal Articles , 070: Information Analyses , 143: Reports - Research
+ Article , Report , 080: Journal Articles , 143: Reports - Research , 070: Information Analyses
+ 080 Journal Articles , 143 Reports - Research
+ Article , Statistics/Data Report , 080: Journal Articles , 110: Numerical/Quantitative Data
+ Article , Undefined , Report , 080: Journal Articles , 160: Tests/Questionnaires , 142: Reports - Evaluative
+ 080 Journal Articles , 160 Tests/questionnaires , 052 Guides - Classroom - Teacher
+ Article , Report , Editorial , 080: Journal Articles , 142: Reports - Evaluative , 120: Opinion Papers
+ Article , Report , Editorial , 080: Journal Articles , 141: Reports - Descriptive , 120: Opinion Papers
+ Article , Instructional Material/Guideline , 080: Journal Articles , 051: Guides - Classroom - Learner
+ Article , Report , Instructional Material/Guideline , 080: Journal Articles , 143: Reports - Research , 052: Guides - Classroom - Teacher
+ 080 Journal Articles , 052 Guides - Classroom - Teacher
+ Article , Report , Undefined , 080: Journal Articles , 142: Reports - Evaluative , 160: Tests/Questionnaires
+ Article , Report , Speech/Lecture , 080: Journal Articles , 142: Reports - Evaluative , 150: Speeches/Meeting Papers
+ Article , Report , 080: Journal Articles , 142: Reports - Evaluative , 070: Information Analyses
+ Article , Undefined , 080: Journal Articles , 020: Collected Works - General
+ Article , Report , Undefined , 080: Journal Articles , 142: Reports - Evaluative , 020: Collected Works - General
+ Article , Speech/Lecture , 080: Journal Articles , 150: Speeches/Meeting Papers
+ Article , Report , 080: Journal Articles , 070: Information Analyses , 142: Reports - Evaluative
+ Article , Report , 080: Journal Articles , 141: Reports - Descriptive , 070: Information Analyses
+ Article , Report , Speech/Lecture , 080: Journal Articles , 143: Reports - Research , 150: Speeches/Meeting Papers
+ Article , Speech/Lecture , Report , 080: Journal Articles , 150: Speeches/Meeting Papers , 141: Reports - Descriptive
+ 080 Journal Articles , 160 Tests/questionnaires , 143 Reports - Research
+ Article , Speech/Lecture , Report , 080: Journal Articles , 150: Speeches/Meeting Papers , 143: Reports - Research
+ Article , Report , 060: Historical Materials , 080: Journal Articles , 141: Reports - Descriptive
+ Article , Directory , 080: Journal Articles , 132: Reference Materials - Directories/Catalogs
+ Article , Report , 080: Journal Articles , 141: Reports - Descriptive , 142: Reports - Evaluative
+ Article , Report , 060: Historical Materials , 080: Journal Articles , 143: Reports - Research
+ Article , Report , 060: Historical Materials , 080: Journal Articles , 142: Reports - Evaluative
+ Article , Report , Statistics/Data Report , 080: Journal Articles , 143: Reports - Research , 110: Numerical/Quantitative Data
+ Article , Statistics/Data Report , Report , 080: Journal Articles , 110: Numerical/Quantitative Data , 141: Reports - Descriptive
+ Article , Editorial , Speech/Lecture , 080: Journal Articles , 120: Opinion Papers , 150: Speeches/Meeting Papers
+ Article , Instructional Material/Guideline , 080: Journal Articles , 055: Guides - Non-Classroom
+ Article , Report , 060: Historical Materials , 070: Information Analyses , 080: Journal Articles
+ Article , Editorial , Report , 080: Journal Articles , 120: Opinion Papers , 140: Reports - General
+ Article , Statistics/Data Report , Report , 080: Journal Articles , 110: Numerical/Quantitative Data , 142: Reports - Evaluative
+ Article , Report , Instructional Material/Guideline , 080: Journal Articles , 143: Reports - Research , 055: Guides - Non-Classroom
+ Article , Editorial , 060: Historical Materials , 080: Journal Articles , 120: Opinion Papers
+ Article , Bibliography , 080: Journal Articles , 131: Reference Materials - Bibliographies
+ Article , Report , Speech/Lecture , 080: Journal Articles , 141: Reports - Descriptive , 150: Speeches/Meeting Papers
+ Article , Editorial , Report , 080: Journal Articles , 120: Opinion Papers , 143: Reports - Research
+ Article , Statistics/Data Report , Report , 080: Journal Articles , 110: Numerical/Quantitative Data , 143: Reports - Research
+ Article , Instructional Material/Guideline , Report , 080: Journal Articles , 051: Guides - Classroom - Learner , 141: Reports - Descriptive
+ Article , Report , Undefined , 080: Journal Articles , 141: Reports - Descriptive , 020: Collected Works - General
+ Article , Undefined , Report , 080: Journal Articles , 022: Collected Works - Serial , 070: Information Analyses
+ Article , Report , 080: Journal Articles , 142: Reports - Evaluative , 143: Reports - Research
+ Article , Reference Document , 080: Journal Articles , 134: Reference Materials - Vocabularies/Classifications
+ Article , Statistics/Data Report , Report , 080: Journal Articles , 110: Numerical/Quantitative Data , 142: Reports - Evaluative , 143: Reports - Research
+ Article
+ Article , Instructional Material/Guideline , Report , 080: Journal Articles , 052: Guides - Classroom - Teacher , 143: Reports - Research
+ Article , Report , Instructional Material/Guideline , 080: Journal Articles , 142: Reports - Evaluative , 055: Guides - Non-Classroom
+ Article , Instructional Material/Guideline , Book , 080: Journal Articles , 055: Guides - Non-Classroom , 010: Books
+ Article , Statistics/Data Report , Report , Undefined , 080: Journal Articles , 110: Numerical/Quantitative Data , 142: Reports - Evaluative , 160: Tests/Questionnaires
+ Article , Instructional Material/Guideline , Report , 080: Journal Articles , 055: Guides - Non-Classroom , 143: Reports - Research
