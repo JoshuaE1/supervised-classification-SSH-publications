@@ -1,7 +1,6 @@
 numpy==1.17.4
 lightgbm==2.2.1
 scikit_multilearn==0.2.0
-~cipy==1.1.0
 joblib==0.14.1
 nltk==3.4.5
 pandas==0.25.3
