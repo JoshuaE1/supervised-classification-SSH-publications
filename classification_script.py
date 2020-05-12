@@ -197,6 +197,25 @@ if __name__ == "__main__":
     # Preprocess training data set
     X_train_preproc = pipe.fit_transform(X_train, y_train)
 
+    ### Multinomial Naive Bayes
+    mnb_parameters = {
+        "classifier": [MultinomialNB()],
+        "classifier__alpha": scipy.stats.reciprocal(1e-4, 1),  # loguniform
+    }
+
+    cv = KFold(n_splits=3, random_state=RANDOM_SEED, shuffle=False)
+    clf = fit(
+        X_train_preproc, y_train, config, mnb_parameters, n_iter=100
+    )
+
+    print("\n** CV results for MNB **")
+    print(config, clf.best_score_)
+    # Make prediction for test set:
+    y_pred = make_test_prediction(clf, pipe, X_test)
+    y_test = y_test.astype("float32")
+    print("\n** Test results for MNB **")
+    print(evaluation_metrics_report(y_test, y_pred))
+
     ### Gradient Boosting
     gb_parameters = {
         "classifier": [
