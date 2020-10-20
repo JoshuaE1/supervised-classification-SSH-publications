@@ -18,6 +18,7 @@ from sklearn.metrics import (
     hamming_loss,
     precision_score,
     recall_score,
+    classification_report
 )
 from sklearn.model_selection import KFold, RandomizedSearchCV
 from sklearn.naive_bayes import MultinomialNB
@@ -29,7 +30,7 @@ from skmultilearn.problem_transform import ClassifierChain
 from mlutils import clean_df, tokenize_lemmas, tokenize_nounphrases, tokenize_nouns
 
 RANDOM_SEED = 56
-N_CORES = 20
+N_CORES = 28
 
 try:
     data_dir = Path(os.environ.get("VSC_DATA"))  # type: ignore
@@ -160,7 +161,8 @@ def evaluation_metrics_report(y_test, y_pred):
         f"Hamming loss = {hamming_loss(y_test, y_pred)}\n"
         f"Precision = {precision_score(y_test, y_pred, average='weighted')}\n"
         f"Recall = {recall_score(y_test, y_pred, average='weighted')}\n"
-        f"F1 = {f1_score(y_test, y_pred, average='weighted')}"
+        f"F1 = {f1_score(y_test, y_pred, average='weighted')}\n"
+	f"F1 classes = {classification_report(y_test, y_pred, target_names=true_labels(df).columns)}"
     )
 
 
