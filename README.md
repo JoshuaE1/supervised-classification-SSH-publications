@@ -4,7 +4,7 @@
 
 In this project we develop and evaluate a machine learning module that automatically classifies scientific documents into fine grained disciplinary categories.
 
-This repository contains the code used for merging the data and performing the analyses as described in [paper].
+This repository contains the code used for merging the data and performing the analyses as described in Eykens, Guns and Engels (2021): https://direct.mit.edu/qss/article/2/1/89/97077/Fine-grained-classification-of-social-science
 
 # Requirements
 
